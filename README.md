@@ -16,7 +16,7 @@ Enlace de descarga: [Dataset usado](https://www.kaggle.com/datasets/sumn2u/garba
 HOG, Histograma de color, Gaussian Naive Bayes, Árbol de Decisión, Random Forest, SVM, Regresión Logística, DNN (MLP), CNN, PCA, t-SNE, SelectKBest, K-Means, Clustering Aglomerativo (Ward), DBSCAN.
 
 ## Enlaces
-- **Código (notebook):**[Kaggle](https://tu-enlace.com) 
+- **Código (notebook):** [Kaggle](https://www.kaggle.com/code/maralucerogmezpico/clasificadora-residuos-ai?kernelSessionId=322931080) 
 - **Video (YouTube):** [Video Presentación](poner enlace de youtube)
 - **Repositorio:** [GitHub](https://github.com/JeanLucas20/Clasificadora-residuos-ia)
 - **Diapositivas:** [Canva](https://www.canva.com/design/DAHI_7AOtyI/ZI5QId2rARX29mU9xyoUIg/edit)
