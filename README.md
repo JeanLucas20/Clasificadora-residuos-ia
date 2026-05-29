@@ -10,12 +10,13 @@ Clasificar automáticamente imágenes de residuos en seis categorías (vidrio, p
 
 ## Dataset
 **Garbage Classification v2** (sumn2u) — Kaggle.
-Enlace de descarga: https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2
+Enlace de descarga: [Dataset usado](https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2)
 
 ## Modelos
 HOG, Histograma de color, Gaussian Naive Bayes, Árbol de Decisión, Random Forest, SVM, Regresión Logística, DNN (MLP), CNN, PCA, t-SNE, SelectKBest, K-Means, Clustering Aglomerativo (Ward), DBSCAN.
 
 ## Enlaces
-- **Código (notebook):
-- **Video (YouTube):
-- **Repositorio:** https://github.com/JeanLucas20/Clasificadora-residuos-ia
+- **Código (notebook):**[Kaggle](https://tu-enlace.com) 
+- **Video (YouTube):** [Video Presentación](poner enlace de youtube)
+- **Repositorio:** [GitHub](https://github.com/JeanLucas20/Clasificadora-residuos-ia)
+- **Diapositivas:** [Canva](https://www.canva.com/design/DAHI_7AOtyI/ZI5QId2rARX29mU9xyoUIg/edit)
