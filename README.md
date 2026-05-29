@@ -16,6 +16,6 @@ Enlace de descarga: https://www.kaggle.com/datasets/sumn2u/garbage-classificatio
 HOG, Histograma de color, Gaussian Naive Bayes, Árbol de Decisión, Random Forest, SVM, Regresión Logística, DNN (MLP), CNN, PCA, t-SNE, SelectKBest, K-Means, Clustering Aglomerativo (Ward), DBSCAN.
 
 ## Enlaces
-- **Código (notebook):** PEGAR_LINK_DEL_NOTEBOOK_CUANDO_LO_SUBAS
-- **Video (YouTube):** PEGAR_LINK_DE_YOUTUBE_CUANDO_LO_SUBAS
+- **Código (notebook):
+- **Video (YouTube):
 - **Repositorio:** https://github.com/JeanLucas20/Clasificadora-residuos-ia
