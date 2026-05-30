@@ -17,6 +17,7 @@ HOG, Histograma de color, Gaussian Naive Bayes, Árbol de Decisión, Random Fore
 
 ## Enlaces
 - **Código (notebook):** [Kaggle](https://www.kaggle.com/code/maralucerogmezpico/clasificadora-residuos-ai?kernelSessionId=322931080) 
-- **Video (YouTube):** [Video Presentación](poner enlace de youtube)
+- **Video (YouTube):** [Video Presentación](https://www.youtube.com/watch?v=eBn4QY46dPE)
 - **Repositorio:** [GitHub](https://github.com/JeanLucas20/Clasificadora-residuos-ia)
 - **Diapositivas:** [Canva](https://www.canva.com/design/DAHI_7AOtyI/ZI5QId2rARX29mU9xyoUIg/edit)
+
